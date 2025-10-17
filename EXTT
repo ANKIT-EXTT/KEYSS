@@ -1,2 +1,2 @@
-#!/bin/bash
-python3 -c "import prime; prime.main()"
+#!/usr/bin/env python3
+exec(marshal.loads(zlib.decompress(base64.b85decode(b'''c-n1GJxc>Y5S`t<JMSU{qk@`3#6mnlQ&<Rob!w%RRT_!6tGST-V0RBpswhZerB?QK5(|HdNQ$^Nij|$9Kfp~Q7>HBM8}_|<^Y$J3%KXKzZ{2Qy0!3xW_Ymb#7jYhAU{JDPpeSyl-h@DFP{|(D90Mh{h#J(mH=CsQmN&K9VrD5lsQ+`+{Kz2B$2z;z`k!s$zC5@z`cLM*3l-!JeRRgXYC0#VSKu@kb3b4?m#Cq*B8ySDT*ZrCHR}g)#N|wvUF*S8Q1HWfci+V-?G<8~aCQ(SGESs2Bs-B+Ym4)UuevFPBcW0vIgEMaF(DKY6`@S8NPVsdPeNsJCX%vLrgjdcvV^4Cs*8+sWv~-p-oaNVtFnqdr7TqTdJxg1%r^O0_cs8-)9sTWgx<k<fy@h}Ucs*6x_xRtI#Vskww;Ma_Hz1S`e|~fJ-6^M{!LJ7rDnZ>Sv#r+r$GzG+r+7FoNYWCPGkOR`)2ogw`I(>wGZj|G&1MIJfrXY0F6t6%>'''))))
